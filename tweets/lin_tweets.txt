@@ -1,0 +1,2 @@
+Negative	285550
+Positive	423205
